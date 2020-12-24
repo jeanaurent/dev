@@ -1,0 +1,4 @@
+C:\Users\jeanlaurentc\source\repos\devtestC\devtestC\obj\Debug\netcoreapp3.1\devtestC.csprojAssemblyReference.cache
+C:\Users\jeanlaurentc\source\repos\devtestC\devtestC\obj\Debug\netcoreapp3.1\devtestC.AssemblyInfoInputs.cache
+C:\Users\jeanlaurentc\source\repos\devtestC\devtestC\obj\Debug\netcoreapp3.1\devtestC.AssemblyInfo.cs
+C:\Users\jeanlaurentc\source\repos\devtestC\devtestC\obj\Debug\netcoreapp3.1\devtestC.csproj.CoreCompileInputs.cache
